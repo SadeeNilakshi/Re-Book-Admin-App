@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ReBook-Admin</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="text_1">Re-Book Admin Login</string>
+    <string name="login">Login</string>
+    <string name="dash">Dashboard</string>
+    <string name="manageB">Manage Books</string>
+    <string name="manageU">Manage Users</string>
+    <string name="chart">View Charts</string>
+    <string name="trans">Transactions</string>
+    <string name="report">Reported Books</string>
+    <string name="textAppBar">Re-Book Administration</string>
+    <string name="totalU">Total Users</string>
+    <string name="totalB">Total Books</string>
+    <string name="totalF">Total Flagged Content</string>
+    <string name="totalC">Total Categories</string>
+    <string name="btnBlock">Block</string>
+    <string name="btnApprove">Approve</string>
+    <string name="btnRemove">Remove</string>
+    <string name="chartView">View Charts</string>
+    <string name="chartCat">Category Count</string>
+    <string name="chartWish">Most Wishlisted Category</string>
+    <string name="chartBook">Book Count</string>
+    <string name="chartBuy">Most Buying Category</string>
+    <string name="totalS">Total Sold Books</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

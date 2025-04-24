@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_dasboard">
+
+    <fragment
+        android:id="@+id/nav_dasboard"
+        android:name="lk.javainstitute.rebook_admin.ui.home.HomeFragment"
+        android:label="@string/dash"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_manage_books"
+        android:name="lk.javainstitute.rebook_admin.ui.ManageBooks.ManageBooksFragment"
+        android:label="@string/manageB"
+        tools:layout="@layout/fragment_manage_books" />
+
+    <fragment
+        android:id="@+id/nav_manage_users"
+        android:name="lk.javainstitute.rebook_admin.ui.ManageUsers.ManageUsersFragment"
+        android:label="@string/manageU"
+        tools:layout="@layout/fragment_manage_users" />
+
+    <fragment
+        android:id="@+id/nav_charts"
+        android:name="lk.javainstitute.rebook_admin.ui.Charts.ChartsFragment"
+        android:label="@string/chart"
+        tools:layout="@layout/fragment_charts" />
+    <fragment
+        android:id="@+id/nav_reported_books"
+        android:name="lk.javainstitute.rebook_admin.ui.BlockedBooks.BlockedBooksFragment"
+        android:label="@string/report"
+        tools:layout="@layout/fragment_blocked_books" />
+
+</navigation>

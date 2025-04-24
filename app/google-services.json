@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "978965770488",
+    "project_id": "re-book-54726",
+    "storage_bucket": "re-book-54726.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978965770488:android:4d369cc8360d2ae4b24b0d",
+        "android_client_info": {
+          "package_name": "lk.javainstitute.rebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsPF5kEBHdmJ3pJ83lWHpKd9Q_1G1uZxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978965770488:android:5277eb3a2b761be5b24b0d",
+        "android_client_info": {
+          "package_name": "lk.javainstitute.rebook_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsPF5kEBHdmJ3pJ83lWHpKd9Q_1G1uZxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

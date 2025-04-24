@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dasboard"
+            android:icon="@drawable/dashboard_admin"
+            android:title="@string/dash" />
+        <item
+            android:id="@+id/nav_manage_books"
+            android:icon="@drawable/open_book"
+            android:title="@string/manageB" />
+        <item
+            android:id="@+id/nav_manage_users"
+            android:icon="@drawable/account"
+            android:title="@string/manageU" />
+
+        <item
+            android:id="@+id/nav_reported_books"
+            android:icon="@drawable/forbidden_reading"
+            android:title="@string/report" />
+
+        <item
+            android:id="@+id/nav_charts"
+            android:icon="@drawable/pie_chart"
+            android:title="@string/chart" />
+    </group>
+</menu>
